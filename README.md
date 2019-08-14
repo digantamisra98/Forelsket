@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="300" src="logo.png">
+  <img width="200" src="logo.png">
 </p>
 
 # Forelsket
