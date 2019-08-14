@@ -12,6 +12,8 @@ Math Equations and Formulas Used:
 
 <br>
 
+## Generated Samples:
+
 <p float="left">
   <img src="Observations/x.png"  width="420"/>
   <img src="Observations/x1.png"  width="420"/> 
