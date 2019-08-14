@@ -4,7 +4,7 @@
 
 # Forelsket
 [![Donate](https://img.shields.io/badge/License-MIT-brightgreen.svg)](LICENSE)
-[![Author](https://img.shields.io/badge/Diganta-Misra-red)]
+![Author](https://img.shields.io/badge/Diganta-Misra-red)
 
 Math Equations and Formulas Used: 
 1. [Mish Activation Function](https://github.com/digantamisra98/Mish)
