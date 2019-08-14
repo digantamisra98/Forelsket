@@ -6,6 +6,8 @@ Math Equations and Formulas Used:
 3. Logarithm of input
 4. Sum of Sine and Cosine wave of input
 
+
+
 <p float="left">
   <img src="Observations/x.png"  width="420"/>
   <img src="Observations/x1.png"  width="420"/> 
