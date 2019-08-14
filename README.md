@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="300" src="logo.png">
+</p>
+
 # Forelsket
 
 Math Equations and Formulas Used: 
