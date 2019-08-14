@@ -6,6 +6,6 @@
 </p>
 
 <p float="left">
-  <img src="Observations/x2.png"  width="420"/>
-  <img src="Observations/x3.png"  width="420"/> 
+  <img src="Observations/x2.png"  width="430"/>
+  <img src="Observations/x3.png"  width="430"/> 
 </p>
