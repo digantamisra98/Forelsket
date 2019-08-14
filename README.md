@@ -1,9 +1,9 @@
 # Forelsket
 
 <p float="left">
-  <img src="Observations/x.png"  width="300"/>
-  <img src="Observations/x4.png"  width="300"/>
-  <img src="Observations/x1.png"  width="300"/> 
+  <img src="Observations/x.png"  width="250"/>
+  <img src="Observations/x4.png"  width="250"/>
+  <img src="Observations/x1.png"  width="250"/> 
 </p>
 
 <p float="left">
