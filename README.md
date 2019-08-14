@@ -3,6 +3,7 @@
 </p>
 
 # Forelsket
+[![Donate](https://img.shields.io/badge/License-MIT-brightgreen.svg)](LICENSE)
 
 Math Equations and Formulas Used: 
 1. [Mish Activation Function](https://github.com/digantamisra98/Mish)
