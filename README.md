@@ -30,15 +30,3 @@ Math Equations and Formulas Used:
   <img src="Observations/x4.png"  width="430"/>
   <img src="Observations/x5.png"  width="430"/> 
 </p>
-
-### Psychedelic Artworks:
-
-<p float="left">
-  <img src="Observations/img0.png"  width="430"/>
-  <img src="Observations/img1.png"  width="430"/> 
-</p>
-
-<p float="left">
-  <img src="Observations/img3 (2).png"  width="430"/>
-  <img src="Observations/img3 (1).png"  width="430"/> 
-</p>
