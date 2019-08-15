@@ -37,3 +37,8 @@ Math Equations and Formulas Used:
   <img src="Observations/img0.png"  width="430"/>
   <img src="Observations/img1.png"  width="430"/> 
 </p>
+
+<p float="left">
+  <img src="Observations/img2 (1).png"  width="430"/>
+  <img src="Observations/img3 (1).png"  width="430"/> 
+</p>
