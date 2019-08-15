@@ -14,6 +14,8 @@ Math Equations and Formulas Used:
 
 ## Generated Samples:
 
+### Fractal Designs: 
+
 <p float="left">
   <img src="Observations/x.png"  width="420"/>
   <img src="Observations/x1.png"  width="420"/> 
@@ -27,4 +29,11 @@ Math Equations and Formulas Used:
 <p float="left">
   <img src="Observations/x4.png"  width="430"/>
   <img src="Observations/x5.png"  width="430"/> 
+</p>
+
+### Psychedelic Artworks:
+
+<p float="left">
+  <img src="Observations/img0.png"  width="430"/>
+  <img src="Observations/img1.png"  width="430"/> 
 </p>
