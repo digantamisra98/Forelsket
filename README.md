@@ -1,5 +1,5 @@
 <p align="left">
-  <img width="250" src="logo.png">
+  <img width="100" src="logo.png">
 </p>
 
 # Forelsket
@@ -17,16 +17,16 @@ Math Equations and Formulas Used:
 ### Fractal Designs: 
 
 <p float="left">
-  <img src="Observations/x.png"  width="420"/>
-  <img src="Observations/x1.png"  width="420"/> 
+  <img src="Observations/x.png"  width="400"/>
+  <img src="Observations/x1.png"  width="400"/> 
 </p>
 
 <p float="left">
-  <img src="Observations/x2.png"  width="430"/>
-  <img src="Observations/x3.png"  width="430"/> 
+  <img src="Observations/x2.png"  width="400"/>
+  <img src="Observations/x3.png"  width="400"/> 
 </p>
 
 <p float="left">
-  <img src="Observations/x4.png"  width="430"/>
-  <img src="Observations/x5.png"  width="430"/> 
+  <img src="Observations/x4.png"  width="400"/>
+  <img src="Observations/x5.png"  width="400"/> 
 </p>
